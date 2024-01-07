@@ -13,7 +13,7 @@ nav{
     font-weight:800 ;
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    padding: 30px 10px 0px 150px;
     display: flex;
     align-items: center;
 }
@@ -30,6 +30,17 @@ nav li{
      margin-right: 50px;
     color: #474747;
 }
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.description{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+}
 .btn{
     background-color: #fd6e0a;
     color: white;
@@ -43,7 +54,10 @@ nav li{
 }
 .header{
     background-color: #FFF8F3;
-
+    background-image: url('../hhhhhhhhhh.jpg');
+    background-size: 500px 400px;
+    background-position: bottom right;
+    background-repeat: no-repeat;
 }
 .banner-title{
     align-content: baseline;
@@ -55,4 +69,22 @@ nav li{
     width: 550px;
     align-items: center;
     display: flex;
+   
+}
+.greeting{
+    font-size: 45px;
+    margin-bottom: 0px;
+} .banner-title{
+    font-size: 65px;
+    font-style: normal;
+    font-weight:700 ;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.about{
+    padding: 130px;
+    background: #FFF8F3;
+    border: radius 10px; ;
+    margin-top: 130px 0px;
+
 }
