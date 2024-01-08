@@ -54,8 +54,8 @@ nav li{
 }
 .header{
     background-color: #FFF8F3;
-    background-image: url('../hhhhhhhhhh.jpg');
-    background-size: 500px 400px;
+    background-image: url('../header_bg.png');
+    background-size: 500px 350px;
     background-position: bottom right;
     background-repeat: no-repeat;
 }
@@ -65,9 +65,9 @@ nav li{
 
 }
 .profile{
-    height: 600px;
-    width: 550px;
-    align-items: center;
+    height: 700px;
+    width: 650px;
+  align-items: end;
     display: flex;
    
 }
@@ -98,4 +98,10 @@ main{
     display: flex;
     justify-content:space-around ;
     text-align: center;
+}
+#what-i-do{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
 }
