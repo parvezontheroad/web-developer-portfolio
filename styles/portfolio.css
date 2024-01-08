@@ -94,6 +94,15 @@ main{
     margin: 0 auto;
 
 }
+
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+main section{
+    margin-top: 130px;
+}
 .about-info-container{
     display: flex;
     justify-content:space-around ;
@@ -104,4 +113,22 @@ main{
 }
 .skills-container{
     display: flex;
+    gap: 24px;
+    
+
+}
+.skill-description{
+   
+color:#757575 ;
+}
+.skil{
+    padding: 30px;
+    border-radius: 5px;
+    background:  #FFF;
+    box-shadow: 0px 0px 50px 0px rgba(21, 2, 2, 0.06) ;
+}
+.resume-container{
+    display: flex;
+    justify-content: space-between;
+   
 }
