@@ -165,4 +165,21 @@ footer{
     background-color: #FFF8F3;
     padding: 130px 200px;
     margin-top: 100px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+    margin-left: 50px;
+
+}
+.section-title{ text-align: left;
+
+}
+.contact input, textarea{
+margin-bottom: 25px;
+padding: 18px ;
+color: #757575;
+border-radius: 0px;
+background: #FFF;
+
 }
